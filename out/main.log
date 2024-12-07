@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.24)  7 DEC 2024 20:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.24)  7 DEC 2024 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,7 +859,7 @@ Package footmisc Info: Declaring symbol style lamport* on input line 744.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 765.
 )
 Package footmisc Info: Declaring symbol style circled on input line 43.
- (./main.aux (./section_01.aux) (./section_02.aux) (./section_03.aux) (./section_04.aux) (./section_05.aux))
+ (out/main.aux (out/section_01.aux) (out/section_02.aux) (out/section_03.aux) (out/section_04.aux) (out/section_05.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -918,7 +918,7 @@ LaTeX Font Info:    ... okay on input line 60.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 60.
-(./main.out) (./main.out)
+(out/main.out) (out/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -986,7 +986,7 @@ Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
 
 ] [3
 
-] (./main.toc)
+] (out/main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -1031,7 +1031,7 @@ Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
 
 
 
-] (./main.bbl) [6
+] (out/main.bbl) [6
 
 
 
@@ -1054,11 +1054,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D98A72E2D0F8A23DE4FB2E9F1CA9C538;1658.
  ) 
 Here is how much of TeX's memory you used:
- 24182 strings out of 474773
+ 24177 strings out of 474773
  484069 string characters out of 5757723
- 1932839 words of memory out of 5000000
- 45866 multiletter control sequences out of 15000+600000
- 570016 words of font info for 129 fonts, out of 8000000 for 9000
+ 1933839 words of memory out of 5000000
+ 45860 multiletter control sequences out of 15000+600000
+ 568469 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,12n,111p,537b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
