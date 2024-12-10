@@ -16,5 +16,5 @@
 \contentsline {subsection}{\numberline {5.1}总结}{5}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}未来工作}{5}{subsection.5.2}%
 \contentsline {section}{参考文献}{6}{section*.6}%
-\contentsline {section}{后记}{7}{section*.7}%
+\contentsline {section}{后记}{6}{section*.7}%
 \contentsfinish 

@@ -307,7 +307,7 @@
 
         \begin{figure}[h]
             \centering
-            \includegraphics[width=2.8cm]{imgs/logo2.png}
+            \includegraphics[width=2.8cm]{imgs/color/cuc.png}
             % \caption{}
             % \label{fig:title}
         \end{figure}
